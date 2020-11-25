@@ -7,14 +7,21 @@
 
 .level {
     background-color: rgb(0, 0, 0);
-    font-family: Helvetica;
-    font-size: 16px;
-    color: rgba(255, 255, 255, 0.897);
-    font-weight: Bold;
     list-style-type: none;
-    text-decoration: none;
     padding: 10px 20px 10px 20px;
     border: 1px rgb(100, 100, 100);
     margin: 10px;
     box-shadow: -4px 4px rgba(90, 90, 90, 0.822);
+}
+
+.level:hover {
+    background-color: rgb(31, 31, 31);
+}
+
+.lv {
+    color: rgba(255, 255, 255, 0.897);
+    font-weight: Bold;
+    text-decoration: none;
+    font-family: Helvetica;
+    font-size: 16px;
 }

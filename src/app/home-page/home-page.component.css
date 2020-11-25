@@ -19,6 +19,10 @@
     min-width: 100px;
 }
 
+.nav-item:hover {
+    box-shadow: -4px 4px rgb(137, 43, 226);
+}
+
 .home-links {
     color: whitesmoke;
     text-shadow: 2px 1px black;

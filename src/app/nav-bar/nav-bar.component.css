@@ -2,3 +2,7 @@
     background-color: transparent;
     border: none;
 }
+
+.nav-link:hover {
+    background-color: rgba(214, 255, 241, 0.363);
+}
