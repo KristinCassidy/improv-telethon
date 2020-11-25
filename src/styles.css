@@ -13,7 +13,7 @@
     text-shadow: 2px 3px rebeccapurple;
     font-family: monospace;
     font-weight: lighter;
-    padding: 30px;
+    padding-top: 30px;
     font-size: 30px;
 }
 
@@ -25,8 +25,4 @@
     text-shadow: 2px 3px rgb(66, 66, 66);
     padding: 15px;
     font-size: 24px;
-}
-
-a {
-    color: aqua;
 }

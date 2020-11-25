@@ -10,9 +10,17 @@
 
 .nav-item {
     border: 1px solid;
+    font-size: 18px;
     text-align: center;
-    color: aquamarine;
     padding: 15px;
+    color: aquamarine;
+    background-color: rgba(61, 61, 61, 0.795);
     background-image: url("/assets/images/vhs-overlay.jpg");
     min-width: 100px;
+}
+
+.home-links {
+    color: whitesmoke;
+    text-shadow: 2px 1px black;
+    font-weight: medium;
 }
