@@ -1,0 +1,18 @@
+.home-menu {
+    padding: 0 50px 50px 50px;
+    margin: auto;
+    background-image: url("/assets/images/cube-background.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    border-collapse: collapse;
+}
+
+.nav-item {
+    border: 1px solid;
+    text-align: center;
+    color: aquamarine;
+    padding: 15px;
+    background-image: url("/assets/images/vhs-overlay.jpg");
+    min-width: 100px;
+}

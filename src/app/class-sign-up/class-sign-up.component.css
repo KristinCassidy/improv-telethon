@@ -1,0 +1,15 @@
+#classesBox {
+    height: 200px;
+    width: 500px;
+    padding: 50px;
+    border-collapse: collapse;
+    border: solid whitesmoke;
+}
+
+.level {
+    background-color: black;
+    font-size: 16px;
+    padding-left: 10px;
+    
+    border: solid whitesmoke;
+}
