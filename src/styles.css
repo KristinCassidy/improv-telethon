@@ -13,8 +13,10 @@
     text-shadow: 2px 3px rebeccapurple;
     font-family: monospace;
     font-weight: lighter;
-    padding-top: 30px;
+    padding-top: 3%;
     font-size: 30px;
+    width: max-content;
+    margin: auto;
 }
 
 .page-header {
@@ -23,6 +25,8 @@
     font-weight: lighter;
     color: whitesmoke;
     text-shadow: 2px 3px rgb(66, 66, 66);
-    padding: 15px;
-    font-size: 24px;
+    padding: 5%;
+    font-size: 200%;
+    margin: auto;
 }
+

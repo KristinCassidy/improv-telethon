@@ -1,14 +1,13 @@
 #timeChart {
+    display: flexbox;
     background-color: rgba(0, 0, 0, 0.678);
     border: solid whitesmoke;
     padding: 20px;
-    font-size: 16px;
-    text-align: center;
-    width: 500px;
-    color: whitesmoke;
+    width: max-content;
 }
 
 #box {
+    display: flex;
     padding: 15px 15px 15px 15px;
     border: 1px solid whitesmoke;
     background-color: rgba(0, 0, 0, 0.425);
@@ -20,4 +19,13 @@
 
 .improv {
     color: rgb(255, 255, 255);
+}
+
+td {
+    display: flexbox;
+    font-size: 16px;
+    text-align: center;
+    color: whitesmoke;
+    padding: 5px 15px 5px 15px;
+    width: max-content;
 }

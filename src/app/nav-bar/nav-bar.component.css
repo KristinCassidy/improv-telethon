@@ -1,6 +1,7 @@
 .nav-link {
     background-color: transparent;
     border: none;
+    color: blueviolet;
 }
 
 .nav-link:hover {
