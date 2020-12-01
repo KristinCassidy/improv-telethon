@@ -21,7 +21,6 @@
     background-color: rgba(61, 61, 61, 0.795);
     background-image: url("/assets/images/vhs-overlay.jpg");
     width: max-content;
-    
 }
 
 .nav-item:hover {
@@ -39,13 +38,4 @@
     padding: 5% auto auto auto;
     margin: auto;
     text-align: center;
-}
-
-td {
-    display: flexbox;
-    flex-shrink: 3;
-}
-
-table {
-    flex-shrink: 3;
 }

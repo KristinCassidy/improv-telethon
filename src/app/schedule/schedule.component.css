@@ -1,9 +1,8 @@
 #timeChart {
-    display: flexbox;
     background-color: rgba(0, 0, 0, 0.678);
     border: solid whitesmoke;
     padding: 20px;
-    width: max-content;
+    
 }
 
 #box {
@@ -22,10 +21,9 @@
 }
 
 td {
-    display: flexbox;
     font-size: 16px;
     text-align: center;
     color: whitesmoke;
     padding: 5px 15px 5px 15px;
-    width: max-content;
+    width: fit-content;
 }

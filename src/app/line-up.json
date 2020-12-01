@@ -1,0 +1,306 @@
+{ "line-up":
+    [
+        {
+            "time": "12:00pm",
+            "name": "Opening + Deenie Nast",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": "www.DeenieNast.com"
+            }
+        },
+        {
+            "time": "12:15pm",
+            "name": "Star-Crossed",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "12:40pm",
+            "name": "Kara Yannon",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "1:00pm",
+            "name": "Putty",
+            "description": "",
+            "links": {
+                "facebook": "https://www.facebook.com/puttyimprov",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "1:30pm",
+            "name": "Frontrunner",
+            "description": "",
+            "links": {
+                "facebook": "https://www.facebook.com/frontrunnercomedy",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "2:25pm",
+            "name": "Long Boy",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "2:30pm",
+            "name": "Brenda",
+            "description": "BRENDA is an amalgamation of three women in their mid-twenties. BRENDA graduated from the Improv Shop in 2019 with a major in emotion and a minor at home that she’s raising all by herself. P.S. They are (from shortest to longest hair) Mary, Leslie, and Kaitlyn.",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "3:00pm",
+            "name": "1-4-5's",
+            "description": "The One Four Fives are a musical improv group based in St. Louis, Missouri. Together, they create the opening (and err, closing) night of a Broadway-style musical, completely made up on the spot based on an audience suggestion!",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "3:30pm",
+            "name": "Shortform Jam",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "3:55pm",
+            "name": "Natalie Huggins",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "4:00pm",
+            "name": "Size Queens",
+            "description": "Size Queens is a fat-positive improv team of powerhouse ladies all celebrating their bodies through improvised comedy.",
+            "links": {
+                "facebook": "https://www.facebook.com/sizequeensSTL",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "4:30pm",
+            "name": "Glass Shark",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "5:00pm",
+            "name": "Erinne's Secret Diaries",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "5:15pm",
+            "name": "The Draft",
+            "description": "The Draft is a fantasy draft of just about anything under the sun, except sports because we don't sports.",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "5:40pm",
+            "name": "The Vincent Scandal",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "5:45pm",
+            "name": "Yoga with Melanie",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "6:00pm",
+            "name": "Homeburger",
+            "description": "",
+            "links": {
+                "facebook": "https://www.facebook.com/homeburgerimprov",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "6:30pm",
+            "name": "Oy to the World",
+            "description": "Shalom! Welcome to St. Louis's premier Jewish improv group based at The Improv Shop. Join us as we present Jewish holiday themed improv shows throughout the year.",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "7:00pm",
+            "name": "Blank & Andy",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "7:25pm",
+            "name": "Shitstorm",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "7:30pm",
+            "name": "Burnside",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "8:00pm",
+            "name": "Black Improv Alliance",
+            "description": "The Black Improv Alliance provides a space for improvisers of African descent to build worlds and tell their authentic stories unapologetically! We are committed to dismantling white supremacy in improv, one scene at a time.",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": "https://blackimprovalliance.com"
+            }
+        },
+        {
+            "time": "8:30pm",
+            "name": "Longform Jam",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "9:00pm",
+            "name": "Talking Topics",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "9:30pm",
+            "name": "Kid Scientist",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": "http://kidscientist.bandcamp.com/"
+            }
+        },
+        {
+            "time": "9:45pm",
+            "name": "Bootcamp",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "10:15pm",
+            "name": "Celebrity Game Night",
+            "description": "Join us for a star-studded evening of fun and games! Watch our contestants and a panel of extremely famous and completely real celebrities try and match answers to hilarious prompts, and match wits in a trivia contest. You never know who will stop by and play Celebrity Game Night!",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "10:45pm",
+            "name": "DJ Whiz w/ Karl",
+            "description": "Karl, formerly known as Hearskra-Z is a phenomenal vocalist and emcee who’s projects include Blank Generation and Carnival of Sols. Coming from the FarFetched record label, he and DJ Whiz provide a musical landscape that is both exciting and familiar at the same time.",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": "www.wearefarfetched.net"
+            }
+        },
+        {
+            "time": "11:15pm",
+            "name": "Tina Dybal",
+            "description": "",
+            "links": {
+                "facebook": "",
+                "instagram": "",
+                "website": ""
+            }
+        },
+        {
+            "time": "11:45pm",
+            "name": "Dance Party!",
+            "description": "",
+            "links": null
+        },
+        {
+            "time": "12:00pm",
+            "name": "After Party!!",
+            "description": "",
+            "links": null
+        }
+    ]
+}

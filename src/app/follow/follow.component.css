@@ -1,12 +1,38 @@
-#pageContainer {
-    display: grid;
-    grid-template-columns: 20% 10% 40% 10% 20%;
-    grid-template-rows: 20% 10% 50% auto;
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: space-evenly;
+    margin: auto;
 }
 
-#pageBlock {
-    display: grid;
-    grid-column-start: 2;
-    grid-column-end: 4;
+#linkBox {
+    display: flexbox;
+    padding: 15px;
+    border: 2px solid whitesmoke;
+    width: fit-content;
+    margin: auto;
+    background-color: rgba(95, 158, 160, 0.473);
 
+}
+
+.link {
+    background-color: rgb(0, 0, 0);
+    padding: 10px 40px 10px 40px;
+    border: 1px rgb(29, 29, 29);
+    margin: 10px;
+    box-shadow: -4px 4px rgba(41, 41, 41, 0.822);
+    text-align: center;
+}
+
+.link:hover {
+    background-color: rgba(137, 43, 226, 0.664);
+}
+
+.lk {
+    color: rgba(255, 255, 255, 0.897);
+    font-weight: Bold;
+    text-decoration: none;
+    font-family: Helvetica;
+    font-size: 16px;
 }
